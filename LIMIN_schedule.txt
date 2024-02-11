@@ -1,0 +1,116 @@
+<head><title> BSCS Schedule of Classes </title><head>
+<body>
+<center>
+<br>
+<font size="16"> Technological University of the Philippines </font> <br>
+<font size="6"> College Of Science </font> <br>
+<font size="5"> Bachelor of Science in Computer Science (BSCS) </font> <br>
+</center>
+<br> Student Name: <b> Mhari Allen E. Limin </b>
+<br> Student Number: <b> TUPM-20-1589 </b>
+<center>
+<table border="4">
+tr:nth-child(even) {
+  background-color: #FF6E7A;
+}
+<tr>
+<th colspan="6">Schedule of Classes </th>
+</tr> 
+
+<tr>
+<th> Subject <br> Code </th>
+<th> Subject <br> Description </th>
+<th> Section </th>
+<th> Days </th>
+<th> Time </th>
+<th> Professor <br> Name </th>
+</tr>
+
+<tr>
+<td style="text-align: center" rowspan="2"> CC311L-M <br> CC312-M </td>
+<td style="text-align: center" rowspan="2"> Web Development </td>
+<td style="text-align: center" rowspan="2"> BSCS-3AB-M </td>
+<td style="text-align: center"> TUESDAY-LAB </td>
+<td style="text-align: center"> 7:00 - 10:00AM </td>
+<td style="text-align: center" rowspan="2"> Edward N. Cruz </td>
+</tr>
+<tr>
+<td style="text-align: center"> FRIDAY-LEC </td>
+<td style="text-align: center"> 8:00 - 10:00AM </td>
+</tr>
+
+
+<tr>
+<td style="text-align: center" rowspan="2"> CS313-M </td>
+<td style="text-align: center" rowspan="2"> Information Assurance and Security </td>
+<td style="text-align: center" rowspan="2"> BSCS-3AB-M </td>
+<td style="text-align: center"> WEDNESDAY </td>
+<td style="text-align: center"> 10:00 - 11:00AM </td>
+<td style="text-align: center" rowspan="2"> Haidee Vinalon </td>
+</tr>
+<tr>
+<td style="text-align: center"> FRIDAY </td>
+<td style="text-align: center"> 11:00AM - 1:00PM </td>
+</tr>
+
+
+<tr>
+<td style="text-align: center" rowspan="2"> CS331L-M <br> CS332-M </td>
+<td style="text-align: center" rowspan="2"> Software Engineering 1 </td>
+<td style="text-align: center" rowspan="2"> BSCS-3AB-M </td>
+<td style="text-align: center"> MONDAY-LEC </td>
+<td style="text-align: center"> 8:00 - 10:00AM </td>
+<td style="text-align: center" rowspan="2"> Dolores L. Montesines </td>
+</tr>
+<tr>
+<td style="text-align: center"> WEDNESDAY-LAB </td>
+<td style="text-align: center"> 7:00 - 10:00AM </td>
+</tr>
+
+
+<tr>
+<td style="text-align: center" rowspan="2"> CS353-M </td>
+<td style="text-align: center" rowspan="2"> Automata Theory and Formal Languages </td>
+<td style="text-align: center" rowspan="2"> BSCS-3AB-M </td>
+<td style="text-align: center" rowspan="2"> MONDAY </td>
+<td style="text-align: center" rowspan="2"> 11:00AM - 2:00PM </td>
+<td style="text-align: center" rowspan="2"> Jan Eilbert Lim Lee </td>
+</tr>
+<tr>
+</tr>
+
+<tr>
+<td style="text-align: center" rowspan="2"> CS373-M </td>
+<td style="text-align: center" rowspan="2"> Data Analytics </td>
+<td style="text-align: center" rowspan="2"> BSCS-3AB-M </td>
+<td style="text-align: center" rowspan="2"> TUESDAY </td>
+<td style="text-align: center" rowspan="2"> 11:00AM - 2:00PM </td>
+<td style="text-align: center" rowspan="2"> Jan Eilbert Lim Lee </td>
+</tr>
+<tr>
+</tr>
+
+<tr>
+<td style="text-align: center" rowspan="2"> CS393-M </td>
+<td style="text-align: center" rowspan="2"> Parallel and Distributed Computing </td>
+<td style="text-align: center" rowspan="2"> BSCS-3AB-M </td>
+<td style="text-align: center" rowspan="2"> THURSDAY </td>
+<td style="text-align: center" rowspan="2"> 4:00 - 7:00PM </td>
+<td style="text-align: center" rowspan="2"> Jonel Rios Macalisang </td>
+</tr>
+<tr>
+</tr>
+
+<tr>
+<td style="text-align: center" rowspan="2"> CSE2-M </td>
+<td style="text-align: center" rowspan="2"> CS Professional Elective 2 </td>
+<td style="text-align: center" rowspan="2"> BSCS-3AB-M </td>
+<td style="text-align: center" rowspan="2"> THURSDAY </td>
+<td style="text-align: center" rowspan="2"> 12:00PM - 3:00PM </td>
+<td style="text-align: center" rowspan="2"> Jan Eilbert Lim Lee </td>
+</tr>
+
+
+</center>
+</table>
+</body>
